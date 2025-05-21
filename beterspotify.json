@@ -1,0 +1,8 @@
+{
+  "name": "Spotify UI Mod",
+  "description": "Customizes Spotify Listen-Along UI",
+  "version": "1.0.0",
+  "author": "Clayden",
+  "main": "index.ts",
+  "styles": "styles.css"
+}
